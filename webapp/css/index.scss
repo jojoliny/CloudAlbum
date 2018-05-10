@@ -1,0 +1,38 @@
+body{
+  margin: 0;
+  padding: 0;
+  ul{
+    display: block;
+    li{
+      list-style: none;
+    }
+  }
+  .container{
+    .folders{
+      li{
+        text-align: center;
+      }
+    }
+    .files{
+      li{
+        text-align: center;
+        .box{
+          a{
+            display: block;
+            height: 13em;
+            overflow: hidden;
+            line-height: 13em;
+            background-color: #f8f8f8;
+          }
+        }
+      }
+    }
+    #exampleModal{
+      .modal-content{
+        .image{
+          width: 100%;
+        }
+      }
+    }
+  }
+}

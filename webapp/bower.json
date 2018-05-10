@@ -1,0 +1,21 @@
+{
+  "name": "webapp",
+  "authors": [
+    "jojoliny <370795317@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "jquery": "^3.3.1"
+  }
+}
